@@ -1,3 +1,5 @@
+import 'dotenv/config';
+
 export default {
     HOST: process.env.DB_HOST,
     USER: process.env.DB_USER,
@@ -9,7 +11,7 @@ export default {
     dialectOptions: {
       ssl: {
         require: true,
-        rejectUnauthorized: true
+        rejectUnauthorized: false
       }
     },
   
