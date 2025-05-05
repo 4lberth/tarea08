@@ -1,7 +1,7 @@
 export default {
-    HOST: "mysql.railway.internal",
+    HOST: "interchange.proxy.rlwy.net",
     USER: "root",
-    PASSWORD: "YPquKrTbiSmbaIkTyZFgdGRzuXVqajEy",
+    PASSWORD: "AGiQiNGnjOtuXAkWuwjoAyibqxSAeZmt",
     DB: "railway",
     PORT: 34652,
     dialect: "mysql",
