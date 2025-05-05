@@ -1,0 +1,13 @@
+/* src/index.css o App.css */
+body {
+  font-family: system-ui, sans-serif;
+  background: #ffffff;
+  margin: 0;
+}
+
+.full-vh-center {
+  min-height: 100vh;                /* ocupa alto completo */
+  display: flex;
+  align-items: center;              /* centra vertical */
+  justify-content: center;          /* centra horizontal */
+}
