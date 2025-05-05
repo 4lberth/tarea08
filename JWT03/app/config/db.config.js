@@ -1,9 +1,9 @@
 export default {
-    HOST: "localhost",
+    HOST: "mysql.railway.internal",
     USER: "root",
-    PASSWORD: "",
-    DB: "db",
-    PORT: 3306,
+    PASSWORD: "YPquKrTbiSmbaIkTyZFgdGRzuXVqajEy",
+    DB: "railway",
+    PORT: 34652,
     dialect: "mysql",
     pool: {
         max: 5,
